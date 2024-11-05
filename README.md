@@ -46,45 +46,45 @@ Here are some of the repositories I've been working on:
 
 ### Review & Recitation Assistant: [[MemorEase](https://github.com/MohamedOmarSahnoun/MemorEase)]
 
-📚 An application that aims to help pupils and learners in general memorize their written lessons by hearts. It leverages speech to text NLP models to transcribe spoken words, and than compares it to what the actual sentence is in order to give an overall score.
+📚 An application that aims to help pupils and learners in general memorize their written lessons by hearts. It leverages speech to text NLP models to transcribe spoken words, and than compares it to what the actual sentence is in order to give an overall score.<br>
 🔧 Skills: NLP, Python, NLTK, Google Speech API 
 
 ### Sentiment Analysis: [[Sentiment Miner](https://github.com/MohamedOmarSahnoun/SentimentMiner)]
 
 This project consists of two phases:
 - Scrape comments for a given company from linkedin.
-- Perform sentiment analysis in order to give an overall rating to the company. The project could serve as an additional feature for credit scoring systems.
+- Perform sentiment analysis in order to give an overall rating to the company. The project could serve as an additional feature for credit scoring systems.<br>
 🔧 Skills: BeautifulSoup, Selenium, NLP, BERT
 
 ### Recommender System: [[Book Recommendations](https://github.com/MohamedOmarSahnoun/Book-Recommendations)]
 
-📚 Build the basis of a book recommendation system based on their content.
+📚 Build the basis of a book recommendation system based on their content.<br>
 🔧 Skills: NLP, Tokenization, BoW, TF-IDF
 
 ### Image Classification: [Age Detector](https://github.com/MohamedOmarSahnoun/Age-Detector)
 
 This project consists of two phases:
 - Training AlexNet from scratch on a set of 20000 facial images. [notebook](https://github.com/MohamedOmarSahnoun/ML-projects/blob/main/age-prediction-on-facial-images-with-pytorch.ipynb)
-- Deploy the model on a web application.
+- Deploy the model on a web application.<br>
 🔧 Skills: Computer vision, CNN, PyTorch, Django.
 
 ### Banking credit risk prediction: 
 
 Because of the highly imbalanced data, we used two approaches: 
 - Using supervised ML techniques: [link](https://www.kaggle.com/code/sohnoonmohamedomar/credit-default-classification)
-- Using Anomaly Detection: [link](https://www.kaggle.com/code/sohnoonmohamedomar/basic-anomaly-detection-credit-default-prediction)
+- Using Anomaly Detection: [link](https://www.kaggle.com/code/sohnoonmohamedomar/basic-anomaly-detection-credit-default-prediction)<br>
 🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment.
 
 ### Data Gathering: [Python Web Scraping](https://github.com/MohamedOmarSahnoun/SentimentMiner/blob/main/web_scraping.ipynb)
 
-🌐 I've scraped data from various websites and APIs to gather valuable information for analysis.
+🌐 I've scraped data from various websites and APIs to gather valuable information for analysis.<br>
 🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests, Selenuim, Data Extraction.
 
 
 <h2 align="left">Certifications:</h2>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/24BYLVK9ZY2M" target="blank">Machine Learning Engineering for Production (MLOps)</a>
-<a href="https://www.coursera.org/account/accomplishments/specialization/4YL46A2TT8LA" target="blank">Deep Learning Specialisation </a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/24BYLVK9ZY2M" target="blank">Machine Learning Engineering for Production (MLOps)</a><br>
+<a href="https://www.coursera.org/account/accomplishments/specialization/4YL46A2TT8LA" target="blank">Deep Learning Specialisation </a><br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/6XUV8D2S8VP9" target="blank">Machine Learning </a>
 
 
