@@ -30,27 +30,23 @@ My AI Portfolio
  - IndabaX
 
 
-<h1 align="center">Hi 👋, I'm Mechi Saif</h1>
-<h3 align="center">AN AI Engineer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Omar Sahnoon</h1>
+<h3 align="center">An AI Engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-07&label=Profile%20views&color=0e75b6&style=flat" alt="gm-07" /> </p>
 
-- 🌱 I’m currently learning **MLOps** on the **AWS** Platform.
+- 🌱 I’m currently learning **MLOps** on the **Google Cloud** Platform.
 - 💬 Ask me about **Python, ML, Deep Learning, NLP,Time Series**
 
-- 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**seif.mechi@essai.ucar.tn**</a>
+- 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**mohamed.omar.sahnoun@essai.ucar.tn**</a>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
 
-<a href="https://www.linkedin.com/in/saif-mechi-415aab1ba/" target="bhttps://www.bing.com/images/search?view=detailV2&ccid=FIxyQNoo&id=060D66CB169ED7ACE596BDF2D2A0ADC7EF91E072&thid=OIP.FIxyQNooEdyB-FHSlv1lvQHaEq&mediaurl=https%3a%2f%2fstrategyb2b.com%2fwp-content%2fuploads%2f2018%2f07%2fAI-animated-7.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.148c7240da2811dc81f851d296fd65bd%3frik%3dcuCR78etoNLyvQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=500&q=animated+ai+image&simid=608008352774968643&FORM=IRPRST&ck=0546295A8CE8755A879425699DC32D21&selectedIndex=4lank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-mechi" height="30" width="40" /></a>
-<a href="https://kaggle.com/seifmechi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
-<a href="https://app.datacamp.com/portfolio/SaifMechi" target="_blank" rel="noreferrer">
-  <img src="https://www.flaticon.com/free-icon/portfolio_8644474?term=web+portfolio&page=1&position=6&origin=search&related_id=8644474" alt="portfolio" width="40" height="40"/>
-</a>
-<a href="https://www.facebook.com/saif.mechi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghaith mechi" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-omar-sahnoon-9a7a53219" target="bhttps://www.bing.com/images/search?view=detailV2&ccid=FIxyQNoo&id=060D66CB169ED7ACE596BDF2D2A0ADC7EF91E072&thid=OIP.FIxyQNooEdyB-FHSlv1lvQHaEq&mediaurl=https%3a%2f%2fstrategyb2b.com%2fwp-content%2fuploads%2f2018%2f07%2fAI-animated-7.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.148c7240da2811dc81f851d296fd65bd%3frik%3dcuCR78etoNLyvQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=500&q=animated+ai+image&simid=608008352774968643&FORM=IRPRST&ck=0546295A8CE8755A879425699DC32D21&selectedIndex=4lank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-omar-sahnoon" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sohnoonmohamedomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghaithmechi" height="30" width="40" /></a>
 </p>
 <h2 align="left">Work Experience:</h2>
 
