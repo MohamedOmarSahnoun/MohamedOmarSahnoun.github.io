@@ -50,45 +50,27 @@ My AI Portfolio
 </p>
 <h2 align="left">Work Experience:</h2>
 
-**Python developer @<a href="http://www.ur-acedp.org/" target="blank">Labo acedp(FSM)
-</a>(November 2023 - January 2024)**
+**AI Engineer @<a href="https://www.linkedin.com/company/welyne/" target="blank">Welyne</a>(_September 2024 - December 2024_)**
+🔊 Speech-to-Text API: Develop an API that converts voice to text in real-time.
+🗣️ Text-to-Speech API: Create an API that generates natural-sounding voice from text.
+🤖 Intelligent Chatbot: Develop an interactive chatbot by integrating voice APIs to enhance user experience.
+🔧 Testing & Optimization: Ensure the quality of results and optimize performance for smooth and natural interaction.
+**Skills:** Google Cloud Speech, DeepSpeech, Google Text to Speech API, Tacotron, DialogFlow, Rasa.
 
-In this amazing intership I am working on:
-
-✅Python Package Development:My primary task involves comprehending a research paper on determining the optimal number of clusters using a stability measure based on the Rand Index and translating it’s concepts into a Python package. I'm actively engaged in designing,creating, and testing the package.
-
-Skills: Python, OOP , Unit testing ,Software design .
-
-**Data Scientist Intern @<a href="https://www.caustaza.com" target="blank">Caustaza LTD
-</a>(_June 2023 - Aout 2023_)**
-
- 🔍 Exciting Experience as Data Intern at Caustaza Ltd! 📈💼
-
-During this amazing intership I work on:
-
-  ✅ Financial Solution Dashboard: I played a pivotal role in developing a sophisticated financial solution dashboard.I 
-     efficiently organized and presented financial data, enabling stakeholders to gain comprehensive insights into the company's 
-     financial performance.
-
-  ✅ Sentiment Analysis Model: I developed a robust sentiment analysis model,which was capable of accurately predicting the 
-     sentiment of text data, particularly comments from Facebook. Additionally, I implemented Selenium scripts to automate the 
-     extraction of comments from Facebook and seamlessly fed them into the sentiment analysis model for real-time predictions.
-
-  ✅ Glassdoor Data Extraction: As part of the data team, I was entrusted with the task of creating a script to extract 
-     concurrent company information from Glassdoor. The script efficiently gathered relevant data, contributing to a 
-     comprehensive understanding of market trends and competitors' activities.
-
-**Skills:** Statistical Data Analysis · Django Web Development · PostgreSQL · Deep Learning (Sentiment Analysis) · Web Scraping with Selenium · Arabic NLP (Arabert)
+**Computer Vision Intern @<a href="http://pixemantic.com" target="blank">Pixemantic</a>(_June 2024 - July 2024_)**
+  ✅ Creating a database of infrared images of patients falling and not falling.
+  ✅ Fine-tuning YOLOv8 to detect falls.
+**Skills:** Object Detection, Image Classification.
   
-**Data Analyst Intern @<a href="https://www.sonede.com.tn" target="blank">Sonede Tunisia</a> (_July 2022 - Aout 2022_)** <br>
-  🔍 Exciting Opportunity as Data Analyst Intern at Sonede Tunisia! 📊💼
+**Data Science Intern @<a href="https://www.caustaza.com" target="blank">Caustaza Group Ltd</a> (_June 2023 - Aout 2023_)** <br>
+  ✅ Designing a database for Smartovate ERP project.
+  ✅ Developing Data Visualization APIs for admin dashboard <br>
+**Skills:** Database Design (UML) · Statistical Data Analysis · Django · Finance.
 
-  ✅ Transforming Wells Files: I led a crucial role in transforming wells files and related information from paper documents 
-     into a structured and organized database (Mysql).<br>
-  ✅ Power BI Dashboard: I took charge of creating visually appealing and interactive Power BI dashboards. This dashboard 
-     provided comprehensive control and visualization capabilities for monitoring wells.<br>
-**Skills:** Databases · Statistical Data Analysis · Microsoft Power BI.
-
+**Business Intelligence Intern @<a href="http://www.gebisom.com" target="blank">Gebisom SUARL</a> (_June 2022 - July 2022_)** <br>
+  ✅ Developing Custom ERP website.
+  ✅ Designing dashboard for sales analysis. <br>
+**Skills:** Business Intelligence · Entreprise Ressource Planning (Odoo) · PowerQuery · PowerBI.
 
 <h2 align="left"> My Projects Repositories :</h2>
 
