@@ -85,7 +85,7 @@ Because of the highly imbalanced data, we used two approaches:
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/24BYLVK9ZY2M" target="blank">Machine Learning Engineering for Production (MLOps)</a><br>
 <a href="https://www.coursera.org/account/accomplishments/specialization/4YL46A2TT8LA" target="blank">Deep Learning Specialisation </a><br>
-<a href="https://www.coursera.org/account/accomplishments/specialization/6XUV8D2S8VP9" target="blank">Machine Learning </a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/6XUV8D2S8VP9" target="blank">Machine Learning Specialisation</a>
 
 
 
