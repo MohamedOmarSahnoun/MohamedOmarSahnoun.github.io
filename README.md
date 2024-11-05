@@ -1,35 +1,4 @@
 # MohamedOmarSahnoun.github.io
-My AI Portfolio
-
-### Experience
-- AI intern @Welyne (Sep 2024 - Nov 2024)
-- Computer Vision Intern @Pixemantic (Jun 2024 - Aug 2024)
-- Business Intelligence Intern @Caustaza Group Ltd (Jun 2023 - Aug 2023)
-- Data Science Intern @Gebisom SUARL (Jun 2022 - July 2022)
-
-### Projects
-- Parkinson disease prediction
-- MemorEase
-- Sentiment Miner
-- AgroNT
-- Epidemiology
-- Aducation Web app with JEE
-- Credit default prediction
-- Human Emotion Detector
-- Age Detector
-- House prices prediction
-- Animation Series
-- Decisional Analysis
-
-### Hackathons
- - Go Data Science
- - E-health
- - OpenGeoData
- - Go Data Science 2.0
- - DataOverFlow
- - IndabaX
-
-
 <h1 align="center">Hi 👋, I'm Mohamed Omar Sahnoon</h1>
 <h3 align="center">An AI Engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -75,36 +44,49 @@ My AI Portfolio
 
 Here are some of the repositories I've been working on:
 
-### NLP: [Natural Language Processing](https://github.com/Saifmechi/Natural-Language-Processing)
+### Review & Recitation Assistant: [[MemorEase](https://github.com/MohamedOmarSahnoun/MemorEase)]
 
-📚 This repository contains my projects related to Natural Language Processing. It includes text classification, sentiment analysis, named entity recognition, and topic modeling using NLP techniques.
-🔧 Skills: NLP, Python,Deep Learning, BERT, Text Analysis
+📚 An application that aims to help pupils and learners in general memorize their written lessons by hearts. It leverages speech to text NLP models to transcribe spoken words, and than compares it to what the actual sentence is in order to give an overall score.
+🔧 Skills: NLP, Python, NLTK, Google Speech API 
 
-### Computer Vision: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
+### Sentiment Analysis: [[Sentiment Miner](https://github.com/MohamedOmarSahnoun/SentimentMiner)]
 
-💻 This repository showcases my Spring Boot application, which includes RESTful APIs, database integration, user authentication, chat app, and data manipulation.
-🔧 Skills: Spring Boot, Java,Spring Security ,JWT,Spring Data JPA, RESTful APIs, Database Integration.
+This project consists of two phases:
+- Scrape comments for a given company from linkedin.
+- Perform sentiment analysis in order to give an overall rating to the company. The project could serve as an additional feature for credit scoring systems.
+🔧 Skills: BeautifulSoup, Selenium, NLP, BERT
 
-### Banking credit risk prediction: [Credit Risk Prediction](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning)
+### Recommender System: [[Book Recommendations](https://github.com/MohamedOmarSahnoun/Book-Recommendations)]
 
-📈 In this repository, I've implemented machine learning models to predict credit risk for banks and financial institutions. The project includes data preprocessing, EDA,feature engineering, model training and tuning, evaluation and explaination.
+📚 Build the basis of a book recommendation system based on their content.
+🔧 Skills: NLP, Tokenization, BoW, TF-IDF
+
+### Image Classification: [Age Detector](https://github.com/MohamedOmarSahnoun/Age-Detector)
+
+This project consists of two phases:
+- Training AlexNet from scratch on a set of 20000 facial images. [notebook](https://github.com/MohamedOmarSahnoun/ML-projects/blob/main/age-prediction-on-facial-images-with-pytorch.ipynb)
+- Deploy the model on a web application.
+🔧 Skills: Computer vision, CNN, PyTorch, Django.
+
+### Banking credit risk prediction: 
+
+Because of the highly imbalanced data, we used two approaches: 
+- Using supervised ML techniques: [link](https://www.kaggle.com/code/sohnoonmohamedomar/credit-default-classification)
+- Using Anomaly Detection: [link](https://www.kaggle.com/code/sohnoonmohamedomar/basic-anomaly-detection-credit-default-prediction)
 🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment.
 
-### Data Gathering: [Python Web Scraping](https://github.com/Saifmechi/Python-Web-Scraping)
+### Data Gathering: [Python Web Scraping](https://github.com/MohamedOmarSahnoun/SentimentMiner/blob/main/web_scraping.ipynb)
 
-🌐 This repository contains web scraping projects using Python. I've scraped data from various websites and APIs to gather valuable information for analysis.
-🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests,Selenuim, Data Extraction.
+🌐 I've scraped data from various websites and APIs to gather valuable information for analysis.
+🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests, Selenuim, Data Extraction.
 
 
 <h2 align="left">Certifications:</h2>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/ZLYUQMRRDDJF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Practical Data Science on the AWS Cloud </a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/24BYLVK9ZY2M" target="blank">Machine Learning Engineering for Production (MLOps)</a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/4YL46A2TT8LA" target="blank">Deep Learning Specialisation </a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/6XUV8D2S8VP9" target="blank">Machine Learning </a>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/WHAHVU8RJL7Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n" target="blank">Machine Learning Specialisation </a>
-
-<a href="https://www.datacamp.com/statement-of-accomplishment/track/13a07d020b9ca71c2b335b4079ffbfe21652e137" target="blank">Deep Learning with Keras </a>
-
-<a href="https://www.datacamp.com/statement-of-accomplishment/track/fb971b6fcc8e9e8629cd1a17c8644f661040bdd4" target="blank">Machine Learning in python </a>
 
 
 <h2 align="left">Languages and Ai Tools:</h2>
@@ -158,4 +140,5 @@ Here are some of the repositories I've been working on:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saifmechi&show_icons=true&locale=en" alt="gm-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifmechi&" alt="gm-07" /></p>https://saifmechi.github.io/Saif_Portfolio.github.io/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifmechi&" alt="gm-07" /></p>
+https://mohamedomarsahnoun.github.io
