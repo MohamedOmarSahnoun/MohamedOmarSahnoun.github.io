@@ -50,51 +50,50 @@ My AI Portfolio
 </p>
 <h2 align="left">Work Experience:</h2>
 
-**AI Engineer @<a href="https://www.linkedin.com/company/welyne/" target="blank">Welyne</a>(_September 2024 - December 2024_)**<br>
+**AI Engineer @<a href="https://www.linkedin.com/company/welyne/" target="blank">Welyne</a>(_September 2024 - December 2024_)**<br><br>
 🔊 Speech-to-Text API: Develop an API that converts voice to text in real-time.<br>
 🗣️ Text-to-Speech API: Create an API that generates natural-sounding voice from text.<br>
 🤖 Intelligent Chatbot: Develop an interactive chatbot by integrating voice APIs to enhance user experience.<br>
 **Skills:** Google Cloud Speech, DeepSpeech, Google Text to Speech API, Tacotron, DialogFlow, Rasa.
 
-**Computer Vision Intern @<a href="http://pixemantic.com" target="blank">Pixemantic</a>(_June 2024 - July 2024_)**<br>
+**Computer Vision Intern @<a href="http://pixemantic.com" target="blank">Pixemantic</a>(_June 2024 - July 2024_)**<br><br>
   ✅ Collecting a database of infrared images of patients falling and not falling.<br>
   ✅ Fine-tuning YOLOv8 to detect falls.<br>
 **Skills:** Object Detection, Image Classification.
   
-**Data Science Intern @<a href="https://www.caustaza.com" target="blank">Caustaza Group Ltd</a> (_June 2023 - Aout 2023_)** <br>
+**Data Science Intern @<a href="https://www.caustaza.com" target="blank">Caustaza Group Ltd</a> (_June 2023 - Aout 2023_)** <br><br>
   ✅ Designing a database for Smartovate ERP project.<br>
   ✅ Developing Data Visualization APIs for admin dashboard <br>
 **Skills:** Database Design (UML) · Statistical Data Analysis · Django · Finance.
 
-**Business Intelligence Intern @<a href="http://www.gebisom.com" target="blank">Gebisom SUARL</a> (_June 2022 - July 2022_)** <br>
+**Business Intelligence Intern @<a href="http://www.gebisom.com" target="blank">Gebisom SUARL</a> (_June 2022 - July 2022_)** <br><br>
   ✅ Developing Custom ERP website.<br>
   ✅ Designing dashboard for sales analysis. <br>
 **Skills:** Business Intelligence · Entreprise Ressource Planning (Odoo) · PowerQuery · PowerBI.
 
-<h2 align="left"> My Projects Repositories :</h2>
+<h2 align="left"> Projects Repositories:</h2>
 
 Here are some of the repositories I've been working on:
 
-### :NLP: [Natural Language Processing](https://github.com/Saifmechi/Natural-Language-Processing)
-📚 This repository contains my projects related to Natural Language Processing. It includes text classification, sentiment analysis, named entity recognition, and topic modeling using NLP techniques.
+### NLP: [Natural Language Processing](https://github.com/Saifmechi/Natural-Language-Processing)
 
+📚 This repository contains my projects related to Natural Language Processing. It includes text classification, sentiment analysis, named entity recognition, and topic modeling using NLP techniques.
 🔧 Skills: NLP, Python,Deep Learning, BERT, Text Analysis
 
-### :banking credit risk prediction: [Credit Risk Prediction](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning)
-📈 In this repository, I've implemented machine learning models to predict credit risk for banks and financial institutions. The project includes data preprocessing, EDA,feature engineering, model training and tuning, evaluation and explaination.
+### Computer Vision: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
 
-🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment.
-
-### :Data Gathering: [Python Web Scraping](https://github.com/Saifmechi/Python-Web-Scraping)
-🌐 This repository contains web scraping projects using Python. I've scraped data from various websites and APIs to gather valuable information for analysis.
-
-🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests,Selenuim, Data Extraction.
-
-### :MasterBuilds: [Spring Boot App](https://github.com/Saifmechi/Spring-Boot-App)
 💻 This repository showcases my Spring Boot application, which includes RESTful APIs, database integration, user authentication, chat app, and data manipulation.
-
 🔧 Skills: Spring Boot, Java,Spring Security ,JWT,Spring Data JPA, RESTful APIs, Database Integration.
 
+### Banking credit risk prediction: [Credit Risk Prediction](https://github.com/Saifmechi/Credit-Risk-Prediction-Machine-Learning)
+
+📈 In this repository, I've implemented machine learning models to predict credit risk for banks and financial institutions. The project includes data preprocessing, EDA,feature engineering, model training and tuning, evaluation and explaination.
+🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment.
+
+### Data Gathering: [Python Web Scraping](https://github.com/Saifmechi/Python-Web-Scraping)
+
+🌐 This repository contains web scraping projects using Python. I've scraped data from various websites and APIs to gather valuable information for analysis.
+🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests,Selenuim, Data Extraction.
 
 
 <h2 align="left">Certifications:</h2>
