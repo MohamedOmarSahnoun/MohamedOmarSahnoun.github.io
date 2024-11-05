@@ -136,9 +136,4 @@ Because of the highly imbalanced data, we used two approaches:
 </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   </p>
   
-[<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saifmechi&show_icons=true&locale=en&layout=compact" alt="gm-07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saifmechi&show_icons=true&locale=en" alt="gm-07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifmechi&" alt="gm-07" /></p>
 https://mohamedomarsahnoun.github.io
