@@ -21,7 +21,7 @@ My AI Portfolio
 - Animation Series
 - Decisional Analysis
 
- ### Hackathons
+### Hackathons
  - Go Data Science
  - E-health
  - OpenGeoData
