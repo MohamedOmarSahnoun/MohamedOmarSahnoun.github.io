@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MLOps** on the **Google Cloud** Platform.
 - 💬 Ask me about **Python, ML, Deep Learning, NLP, Time Series**
 
-- 📫 How to reach me <a href="mailto:seif.mechi@essai.ucar.tn">**mohamed.omar.sahnoun@essai.ucar.tn**</a>
+- 📫 How to reach me <a href="mailto:mohamed.omar.sahnoun@essai.ucar.tn">**mohamed.omar.sahnoun@essai.ucar.tn**</a>
 
 <h2 align="left">Connect with me:</h2>
 
@@ -28,16 +28,19 @@
 **Computer Vision Intern @<a href="http://pixemantic.com" target="blank">Pixemantic</a>(_June 2024 - July 2024_)**<br><br>
   ✅ Collecting a database of infrared images of patients falling and not falling.<br>
   ✅ Fine-tuning YOLOv8 to detect falls.<br>
+
 **Skills:** Object Detection, Image Classification.
   
-**Data Science Intern @<a href="https://www.caustaza.com" target="blank">Caustaza Group Ltd</a> (_June 2023 - Aout 2023_)** <br><br>
+**Data Science Intern @<a href="https://www.caustaza.com" target="blank">Caustaza Group Ltd</a> (_June 2023 - August 2023_)** <br><br>
   ✅ Designing a database for Smartovate ERP project.<br>
   ✅ Developing Data Visualization APIs for admin dashboard <br>
+
 **Skills:** Database Design (UML) · Statistical Data Analysis · Django · Finance.
 
 **Business Intelligence Intern @<a href="http://www.gebisom.com" target="blank">Gebisom SUARL</a> (_June 2022 - July 2022_)** <br><br>
   ✅ Developing Custom ERP website.<br>
   ✅ Designing dashboard for sales analysis. <br>
+
 **Skills:** Business Intelligence · Entreprise Ressource Planning (Odoo) · PowerQuery · PowerBI.
 
 <h2 align="left"> Projects Repositories:</h2>
@@ -47,6 +50,7 @@ Here are some of the repositories I've been working on:
 ### Review & Recitation Assistant: [[MemorEase](https://github.com/MohamedOmarSahnoun/MemorEase)]
 
 📚 An application that aims to help pupils and learners in general memorize their written lessons by hearts. It leverages speech to text NLP models to transcribe spoken words, and than compares it to what the actual sentence is in order to give an overall score.<br>
+
 🔧 Skills: NLP, Python, NLTK, Google Speech API 
 
 ### Sentiment Analysis: [[Sentiment Miner](https://github.com/MohamedOmarSahnoun/SentimentMiner)]
@@ -54,11 +58,13 @@ Here are some of the repositories I've been working on:
 This project consists of two phases:
 - Scrape comments for a given company from linkedin.
 - Perform sentiment analysis in order to give an overall rating to the company. The project could serve as an additional feature for credit scoring systems.<br>
+
 🔧 Skills: BeautifulSoup, Selenium, NLP, BERT
 
 ### Recommender System: [[Book Recommendations](https://github.com/MohamedOmarSahnoun/Book-Recommendations)]
 
 📚 Build the basis of a book recommendation system based on their content.<br>
+
 🔧 Skills: NLP, Tokenization, BoW, TF-IDF
 
 ### Image Classification: [Age Detector](https://github.com/MohamedOmarSahnoun/Age-Detector)
@@ -66,6 +72,7 @@ This project consists of two phases:
 This project consists of two phases:
 - Training AlexNet from scratch on a set of 20000 facial images. [notebook](https://github.com/MohamedOmarSahnoun/ML-projects/blob/main/age-prediction-on-facial-images-with-pytorch.ipynb)
 - Deploy the model on a web application.<br>
+
 🔧 Skills: Computer vision, CNN, PyTorch, Django.
 
 ### Banking credit risk prediction: 
@@ -73,11 +80,13 @@ This project consists of two phases:
 Because of the highly imbalanced data, we used two approaches: 
 - Using supervised ML techniques: [link](https://www.kaggle.com/code/sohnoonmohamedomar/credit-default-classification)
 - Using Anomaly Detection: [link](https://www.kaggle.com/code/sohnoonmohamedomar/basic-anomaly-detection-credit-default-prediction)<br>
+
 🔧 Skills: Machine Learning, Data Analysis, Python, Credit Risk Assessment.
 
 ### Data Gathering: [Python Web Scraping](https://github.com/MohamedOmarSahnoun/SentimentMiner/blob/main/web_scraping.ipynb)
 
 🌐 I've scraped data from various websites and APIs to gather valuable information for analysis.<br>
+
 🔧 Skills: Web Scraping, Python, BeautifulSoup, Requests, Selenuim, Data Extraction.
 
 
