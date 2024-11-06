@@ -66,7 +66,7 @@ This project consists of two phases:
 
 📚 Build the basis of a book recommendation system based on their content.<br>
 
-🔧 Skills: NLP, Tokenization, BoW, TF-IDF
+🔧 Skills: NLP, Tokenization, Stemming, BoW, TF-IDF
 
 ### Image Classification: [Age Detector](https://github.com/MohamedOmarSahnoun/Age-Detector)
 
